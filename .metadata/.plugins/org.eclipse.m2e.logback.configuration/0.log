@@ -1,0 +1,438 @@
+2021-02-04 10:16:39,950 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-02-04 10:21:21,045 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/2.4.2/spring-boot-starter-parent-2.4.2.pom
+2021-02-04 10:21:21,365 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/2.4.2/spring-boot-starter-parent-2.4.2.pom
+2021-02-04 10:21:21,670 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.4.2/spring-boot-dependencies-2.4.2.pom
+2021-02-04 10:21:22,384 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.4.2/spring-boot-dependencies-2.4.2.pom
+2021-02-04 10:21:22,803 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/datastax/oss/java-driver-bom/4.9.0/java-driver-bom-4.9.0.pom
+2021-02-04 10:21:23,157 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/datastax/oss/java-driver-bom/4.9.0/java-driver-bom-4.9.0.pom
+2021-02-04 10:21:23,461 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-bom/4.1.17/metrics-bom-4.1.17.pom
+2021-02-04 10:21:23,765 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-bom/4.1.17/metrics-bom-4.1.17.pom
+2021-02-04 10:21:24,093 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/4.1.17/metrics-parent-4.1.17.pom
+2021-02-04 10:21:24,411 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/4.1.17/metrics-parent-4.1.17.pom
+2021-02-04 10:21:24,741 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-bom/2.5.14/groovy-bom-2.5.14.pom
+2021-02-04 10:21:25,082 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/groovy/groovy-bom/2.5.14/groovy-bom-2.5.14.pom
+2021-02-04 10:21:25,399 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/infinispan/infinispan-bom/11.0.8.Final/infinispan-bom-11.0.8.Final.pom
+2021-02-04 10:21:25,728 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/infinispan/infinispan-bom/11.0.8.Final/infinispan-bom-11.0.8.Final.pom
+2021-02-04 10:21:26,046 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/infinispan/infinispan-build-configuration-parent/11.0.8.Final/infinispan-build-configuration-parent-11.0.8.Final.pom
+2021-02-04 10:21:26,419 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/infinispan/infinispan-build-configuration-parent/11.0.8.Final/infinispan-build-configuration-parent-11.0.8.Final.pom
+2021-02-04 10:21:26,785 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/36/jboss-parent-36.pom
+2021-02-04 10:21:27,171 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/36/jboss-parent-36.pom
+2021-02-04 10:21:27,582 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.11.4/jackson-bom-2.11.4.pom
+2021-02-04 10:21:27,910 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.11.4/jackson-bom-2.11.4.pom
+2021-02-04 10:21:28,345 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.32/jersey-bom-2.32.pom
+2021-02-04 10:21:28,709 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.32/jersey-bom-2.32.pom
+2021-02-04 10:21:29,053 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.35.v20201120/jetty-bom-9.4.35.v20201120.pom
+2021-02-04 10:21:29,384 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.35.v20201120/jetty-bom-9.4.35.v20201120.pom
+2021-02-04 10:21:29,735 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.0/junit-bom-5.7.0.pom
+2021-02-04 10:21:30,064 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.0/junit-bom-5.7.0.pom
+2021-02-04 10:21:30,372 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-bom/1.4.21/kotlin-bom-1.4.21.pom
+2021-02-04 10:21:30,801 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-bom/1.4.21/kotlin-bom-1.4.21.pom
+2021-02-04 10:21:31,122 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.4.2/kotlinx-coroutines-bom-1.4.2.pom
+2021-02-04 10:21:31,477 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.4.2/kotlinx-coroutines-bom-1.4.2.pom
+2021-02-04 10:21:31,959 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-bom/1.6.3/micrometer-bom-1.6.3.pom
+2021-02-04 10:21:32,288 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-bom/1.6.3/micrometer-bom-1.6.3.pom
+2021-02-04 10:21:32,610 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.58.Final/netty-bom-4.1.58.Final.pom
+2021-02-04 10:21:32,982 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.58.Final/netty-bom-4.1.58.Final.pom
+2021-02-04 10:21:33,326 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc-bom/19.8.0.0/ojdbc-bom-19.8.0.0.pom
+2021-02-04 10:21:33,660 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc-bom/19.8.0.0/ojdbc-bom-19.8.0.0.pom
+2021-02-04 10:21:33,980 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/r2dbc/r2dbc-bom/Arabba-SR8/r2dbc-bom-Arabba-SR8.pom
+2021-02-04 10:21:34,363 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/r2dbc/r2dbc-bom/Arabba-SR8/r2dbc-bom-Arabba-SR8.pom
+2021-02-04 10:21:34,680 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/2020.0.3/reactor-bom-2020.0.3.pom
+2021-02-04 10:21:35,003 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/2020.0.3/reactor-bom-2020.0.3.pom
+2021-02-04 10:21:35,329 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/rsocket/rsocket-bom/1.1.0/rsocket-bom-1.1.0.pom
+2021-02-04 10:21:35,668 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/rsocket/rsocket-bom/1.1.0/rsocket-bom-1.1.0.pom
+2021-02-04 10:21:35,977 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-bom/2020.0.3/spring-data-bom-2020.0.3.pom
+2021-02-04 10:21:36,328 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-bom/2020.0.3/spring-data-bom-2020.0.3.pom
+2021-02-04 10:21:36,631 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.3.3/spring-framework-bom-5.3.3.pom
+2021-02-04 10:21:36,979 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.3.3/spring-framework-bom-5.3.3.pom
+2021-02-04 10:21:37,288 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.4.3/spring-integration-bom-5.4.3.pom
+2021-02-04 10:21:37,638 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.4.3/spring-integration-bom-5.4.3.pom
+2021-02-04 10:21:37,948 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.4.2/spring-security-bom-5.4.2.pom
+2021-02-04 10:21:38,267 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.4.2/spring-security-bom-5.4.2.pom
+2021-02-04 10:21:38,590 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/2020.0.1/spring-session-bom-2020.0.1.pom
+2021-02-04 10:21:38,913 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/2020.0.1/spring-session-bom-2020.0.1.pom
+2021-02-04 10:21:40,955 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.4.2/spring-boot-maven-plugin-2.4.2.pom
+2021-02-04 10:21:41,349 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.4.2/spring-boot-maven-plugin-2.4.2.pom
+2021-02-04 10:21:41,669 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.4.2/spring-boot-maven-plugin-2.4.2.jar
+2021-02-04 10:21:42,347 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.4.2/spring-boot-maven-plugin-2.4.2.jar
+2021-02-04 10:21:43,576 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.2.0/maven-resources-plugin-3.2.0.jar
+2021-02-04 10:21:44,038 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.2.0/maven-resources-plugin-3.2.0.jar
+2021-02-04 10:21:51,200 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mizanthecoder:myfirstapp:0.0.1-SNAPSHOT @ G:\IT Files\Google Drive\muhd.mr404\OneDrive\Document\From TCLD\Spring\Boot\myfirstapp\myfirstapp\pom.xml.
+2021-02-04 10:21:51,489 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.4.2/spring-boot-starter-web-2.4.2.pom
+2021-02-04 10:21:51,803 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.4.2/spring-boot-starter-web-2.4.2.pom
+2021-02-04 10:21:52,102 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.4.2/spring-boot-starter-2.4.2.pom
+2021-02-04 10:21:52,457 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.4.2/spring-boot-starter-2.4.2.pom
+2021-02-04 10:21:52,755 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.4.2/spring-boot-2.4.2.pom
+2021-02-04 10:21:53,132 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.4.2/spring-boot-2.4.2.pom
+2021-02-04 10:21:53,431 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.3/spring-core-5.3.3.pom
+2021-02-04 10:21:53,794 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.3/spring-core-5.3.3.pom
+2021-02-04 10:21:54,104 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.3/spring-jcl-5.3.3.pom
+2021-02-04 10:21:54,418 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.3/spring-jcl-5.3.3.pom
+2021-02-04 10:21:54,754 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.3/spring-context-5.3.3.pom
+2021-02-04 10:21:55,124 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.3/spring-context-5.3.3.pom
+2021-02-04 10:21:55,452 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.3/spring-aop-5.3.3.pom
+2021-02-04 10:21:55,773 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.3/spring-aop-5.3.3.pom
+2021-02-04 10:21:56,083 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.3/spring-beans-5.3.3.pom
+2021-02-04 10:21:56,402 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.3/spring-beans-5.3.3.pom
+2021-02-04 10:21:56,725 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.3/spring-expression-5.3.3.pom
+2021-02-04 10:21:57,057 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.3/spring-expression-5.3.3.pom
+2021-02-04 10:21:57,376 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.4.2/spring-boot-autoconfigure-2.4.2.pom
+2021-02-04 10:21:57,702 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.4.2/spring-boot-autoconfigure-2.4.2.pom
+2021-02-04 10:21:58,019 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.4.2/spring-boot-starter-logging-2.4.2.pom
+2021-02-04 10:21:58,342 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.4.2/spring-boot-starter-logging-2.4.2.pom
+2021-02-04 10:21:59,218 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.27/snakeyaml-1.27.pom
+2021-02-04 10:21:59,582 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.27/snakeyaml-1.27.pom
+2021-02-04 10:21:59,919 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.4.2/spring-boot-starter-json-2.4.2.pom
+2021-02-04 10:22:00,247 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.4.2/spring-boot-starter-json-2.4.2.pom
+2021-02-04 10:22:00,609 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.3.3/spring-web-5.3.3.pom
+2021-02-04 10:22:00,944 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.3.3/spring-web-5.3.3.pom
+2021-02-04 10:22:01,273 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.4/jackson-databind-2.11.4.pom
+2021-02-04 10:22:01,626 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.4/jackson-databind-2.11.4.pom
+2021-02-04 10:22:01,951 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.11.4/jackson-base-2.11.4.pom
+2021-02-04 10:22:02,280 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.11.4/jackson-base-2.11.4.pom
+2021-02-04 10:22:02,610 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.4/jackson-annotations-2.11.4.pom
+2021-02-04 10:22:02,936 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.4/jackson-annotations-2.11.4.pom
+2021-02-04 10:22:03,253 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.4/jackson-core-2.11.4.pom
+2021-02-04 10:22:03,578 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.4/jackson-core-2.11.4.pom
+2021-02-04 10:22:03,904 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.4/jackson-datatype-jdk8-2.11.4.pom
+2021-02-04 10:22:04,223 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.4/jackson-datatype-jdk8-2.11.4.pom
+2021-02-04 10:22:04,536 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-modules-java8/2.11.4/jackson-modules-java8-2.11.4.pom
+2021-02-04 10:22:04,865 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-modules-java8/2.11.4/jackson-modules-java8-2.11.4.pom
+2021-02-04 10:22:05,191 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.4/jackson-datatype-jsr310-2.11.4.pom
+2021-02-04 10:22:05,515 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.4/jackson-datatype-jsr310-2.11.4.pom
+2021-02-04 10:22:05,830 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.4/jackson-module-parameter-names-2.11.4.pom
+2021-02-04 10:22:06,157 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.4/jackson-module-parameter-names-2.11.4.pom
+2021-02-04 10:22:06,474 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.4.2/spring-boot-starter-tomcat-2.4.2.pom
+2021-02-04 10:22:06,800 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.4.2/spring-boot-starter-tomcat-2.4.2.pom
+2021-02-04 10:22:07,139 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.41/tomcat-embed-core-9.0.41.pom
+2021-02-04 10:22:07,459 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.41/tomcat-embed-core-9.0.41.pom
+2021-02-04 10:22:07,875 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.41/tomcat-embed-websocket-9.0.41.pom
+2021-02-04 10:22:08,198 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.41/tomcat-embed-websocket-9.0.41.pom
+2021-02-04 10:22:08,523 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.3.3/spring-webmvc-5.3.3.pom
+2021-02-04 10:22:08,849 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.3.3/spring-webmvc-5.3.3.pom
+2021-02-04 10:22:09,244 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.4.2/spring-boot-starter-test-2.4.2.pom
+2021-02-04 10:22:09,567 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.4.2/spring-boot-starter-test-2.4.2.pom
+2021-02-04 10:22:09,884 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.4.2/spring-boot-test-2.4.2.pom
+2021-02-04 10:22:10,212 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.4.2/spring-boot-test-2.4.2.pom
+2021-02-04 10:22:10,555 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.4.2/spring-boot-test-autoconfigure-2.4.2.pom
+2021-02-04 10:22:10,894 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.4.2/spring-boot-test-autoconfigure-2.4.2.pom
+2021-02-04 10:22:11,728 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/assertj/assertj-core/3.18.1/assertj-core-3.18.1.pom
+2021-02-04 10:22:12,096 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/assertj/assertj-core/3.18.1/assertj-core-3.18.1.pom
+2021-02-04 10:22:12,433 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/assertj/assertj-parent-pom/2.2.8/assertj-parent-pom-2.2.8.pom
+2021-02-04 10:22:12,793 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/assertj/assertj-parent-pom/2.2.8/assertj-parent-pom-2.2.8.pom
+2021-02-04 10:22:13,119 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.6.3/junit-bom-5.6.3.pom
+2021-02-04 10:22:13,454 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.6.3/junit-bom-5.6.3.pom
+2021-02-04 10:22:13,852 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter/5.7.0/junit-jupiter-5.7.0.pom
+2021-02-04 10:22:14,189 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter/5.7.0/junit-jupiter-5.7.0.pom
+2021-02-04 10:22:14,533 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.7.0/junit-jupiter-api-5.7.0.pom
+2021-02-04 10:22:14,942 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.7.0/junit-jupiter-api-5.7.0.pom
+2021-02-04 10:22:15,379 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.7.0/junit-platform-commons-1.7.0.pom
+2021-02-04 10:22:15,720 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.7.0/junit-platform-commons-1.7.0.pom
+2021-02-04 10:22:16,069 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.7.0/junit-jupiter-params-5.7.0.pom
+2021-02-04 10:22:16,414 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.7.0/junit-jupiter-params-5.7.0.pom
+2021-02-04 10:22:16,741 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.7.0/junit-jupiter-engine-5.7.0.pom
+2021-02-04 10:22:17,083 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.7.0/junit-jupiter-engine-5.7.0.pom
+2021-02-04 10:22:17,425 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.7.0/junit-platform-engine-1.7.0.pom
+2021-02-04 10:22:17,761 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.7.0/junit-platform-engine-1.7.0.pom
+2021-02-04 10:22:18,089 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/3.6.28/mockito-core-3.6.28.pom
+2021-02-04 10:22:18,436 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/3.6.28/mockito-core-3.6.28.pom
+2021-02-04 10:22:18,769 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.10.19/byte-buddy-1.10.19.pom
+2021-02-04 10:22:19,111 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.10.19/byte-buddy-1.10.19.pom
+2021-02-04 10:22:19,431 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.10.19/byte-buddy-parent-1.10.19.pom
+2021-02-04 10:22:19,838 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.10.19/byte-buddy-parent-1.10.19.pom
+2021-02-04 10:22:20,169 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.10.19/byte-buddy-agent-1.10.19.pom
+2021-02-04 10:22:20,515 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.10.19/byte-buddy-agent-1.10.19.pom
+2021-02-04 10:22:20,865 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/3.1/objenesis-3.1.pom
+2021-02-04 10:22:21,230 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/3.1/objenesis-3.1.pom
+2021-02-04 10:22:21,566 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/3.1/objenesis-parent-3.1.pom
+2021-02-04 10:22:21,927 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/3.1/objenesis-parent-3.1.pom
+2021-02-04 10:22:22,274 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-junit-jupiter/3.6.28/mockito-junit-jupiter-3.6.28.pom
+2021-02-04 10:22:22,618 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-junit-jupiter/3.6.28/mockito-junit-jupiter-3.6.28.pom
+2021-02-04 10:22:23,026 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.3.3/spring-test-5.3.3.pom
+2021-02-04 10:22:23,363 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.3.3/spring-test-5.3.3.pom
+2021-02-04 10:22:23,968 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.4.2/spring-boot-starter-web-2.4.2.jar
+2021-02-04 10:22:24,315 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.4.2/spring-boot-starter-web-2.4.2.jar
+2021-02-04 10:22:24,607 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.4.2/spring-boot-starter-2.4.2.jar
+2021-02-04 10:22:24,954 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.4.2/spring-boot-starter-2.4.2.jar
+2021-02-04 10:22:25,252 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.4.2/spring-boot-2.4.2.jar
+2021-02-04 10:22:27,737 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.4.2/spring-boot-2.4.2.jar
+2021-02-04 10:22:28,031 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.4.2/spring-boot-autoconfigure-2.4.2.jar
+2021-02-04 10:22:30,628 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.4.2/spring-boot-autoconfigure-2.4.2.jar
+2021-02-04 10:22:30,911 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.4.2/spring-boot-starter-logging-2.4.2.jar
+2021-02-04 10:22:31,247 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.4.2/spring-boot-starter-logging-2.4.2.jar
+2021-02-04 10:22:31,531 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.27/snakeyaml-1.27.jar
+2021-02-04 10:22:32,246 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.27/snakeyaml-1.27.jar
+2021-02-04 10:22:32,533 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.4.2/spring-boot-starter-json-2.4.2.jar
+2021-02-04 10:22:32,872 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.4.2/spring-boot-starter-json-2.4.2.jar
+2021-02-04 10:22:33,153 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.4/jackson-databind-2.11.4.jar
+2021-02-04 10:22:35,775 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.4/jackson-databind-2.11.4.jar
+2021-02-04 10:22:36,064 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.4/jackson-annotations-2.11.4.jar
+2021-02-04 10:22:36,476 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.4/jackson-annotations-2.11.4.jar
+2021-02-04 10:22:36,770 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.4/jackson-core-2.11.4.jar
+2021-02-04 10:22:37,745 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.4/jackson-core-2.11.4.jar
+2021-02-04 10:22:38,032 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.4/jackson-datatype-jdk8-2.11.4.jar
+2021-02-04 10:22:38,601 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.4/jackson-datatype-jdk8-2.11.4.jar
+2021-02-04 10:22:38,898 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.4/jackson-datatype-jsr310-2.11.4.jar
+2021-02-04 10:22:39,465 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.4/jackson-datatype-jsr310-2.11.4.jar
+2021-02-04 10:22:39,760 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.4/jackson-module-parameter-names-2.11.4.jar
+2021-02-04 10:22:40,164 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.4/jackson-module-parameter-names-2.11.4.jar
+2021-02-04 10:22:40,456 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.4.2/spring-boot-starter-tomcat-2.4.2.jar
+2021-02-04 10:22:40,803 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.4.2/spring-boot-starter-tomcat-2.4.2.jar
+2021-02-04 10:22:41,105 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.41/tomcat-embed-core-9.0.41.jar
+2021-02-04 10:22:48,596 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.41/tomcat-embed-core-9.0.41.jar
+2021-02-04 10:22:48,893 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.41/tomcat-embed-websocket-9.0.41.jar
+2021-02-04 10:22:49,936 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.41/tomcat-embed-websocket-9.0.41.jar
+2021-02-04 10:22:50,229 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.3.3/spring-web-5.3.3.jar
+2021-02-04 10:22:54,644 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/5.3.3/spring-web-5.3.3.jar
+2021-02-04 10:22:54,925 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.3/spring-beans-5.3.3.jar
+2021-02-04 10:22:57,410 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/5.3.3/spring-beans-5.3.3.jar
+2021-02-04 10:22:57,699 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.3.3/spring-webmvc-5.3.3.jar
+2021-02-04 10:23:01,124 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/5.3.3/spring-webmvc-5.3.3.jar
+2021-02-04 10:23:01,409 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.3/spring-aop-5.3.3.jar
+2021-02-04 10:23:02,882 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/5.3.3/spring-aop-5.3.3.jar
+2021-02-04 10:23:03,163 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.3/spring-context-5.3.3.jar
+2021-02-04 10:23:07,303 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/5.3.3/spring-context-5.3.3.jar
+2021-02-04 10:23:07,590 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.3/spring-expression-5.3.3.jar
+2021-02-04 10:23:08,785 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/5.3.3/spring-expression-5.3.3.jar
+2021-02-04 10:23:09,078 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.4.2/spring-boot-starter-test-2.4.2.jar
+2021-02-04 10:23:09,436 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.4.2/spring-boot-starter-test-2.4.2.jar
+2021-02-04 10:23:09,728 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.4.2/spring-boot-test-2.4.2.jar
+2021-02-04 10:23:10,719 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.4.2/spring-boot-test-2.4.2.jar
+2021-02-04 10:23:11,007 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.4.2/spring-boot-test-autoconfigure-2.4.2.jar
+2021-02-04 10:23:11,926 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.4.2/spring-boot-test-autoconfigure-2.4.2.jar
+2021-02-04 10:23:12,213 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/assertj/assertj-core/3.18.1/assertj-core-3.18.1.jar
+2021-02-04 10:23:27,630 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/assertj/assertj-core/3.18.1/assertj-core-3.18.1.jar
+2021-02-04 10:23:27,913 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter/5.7.0/junit-jupiter-5.7.0.jar
+2021-02-04 10:23:28,253 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter/5.7.0/junit-jupiter-5.7.0.jar
+2021-02-04 10:23:28,540 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.7.0/junit-jupiter-api-5.7.0.jar
+2021-02-04 10:23:29,374 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.7.0/junit-jupiter-api-5.7.0.jar
+2021-02-04 10:23:29,655 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.7.0/junit-platform-commons-1.7.0.jar
+2021-02-04 10:23:30,378 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.7.0/junit-platform-commons-1.7.0.jar
+2021-02-04 10:23:30,657 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.7.0/junit-jupiter-params-5.7.0.jar
+2021-02-04 10:23:33,114 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.7.0/junit-jupiter-params-5.7.0.jar
+2021-02-04 10:23:33,399 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.7.0/junit-jupiter-engine-5.7.0.jar
+2021-02-04 10:23:34,572 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.7.0/junit-jupiter-engine-5.7.0.jar
+2021-02-04 10:23:34,853 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.7.0/junit-platform-engine-1.7.0.jar
+2021-02-04 10:23:35,807 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.7.0/junit-platform-engine-1.7.0.jar
+2021-02-04 10:23:36,083 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/3.6.28/mockito-core-3.6.28.jar
+2021-02-04 10:23:38,898 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/3.6.28/mockito-core-3.6.28.jar
+2021-02-04 10:23:39,182 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.10.19/byte-buddy-1.10.19.jar
+2021-02-04 10:23:52,607 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.10.19/byte-buddy-1.10.19.jar
+2021-02-04 10:23:52,880 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.10.19/byte-buddy-agent-1.10.19.jar
+2021-02-04 10:23:54,084 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-agent/1.10.19/byte-buddy-agent-1.10.19.jar
+2021-02-04 10:23:54,363 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/3.1/objenesis-3.1.jar
+2021-02-04 10:23:54,890 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/3.1/objenesis-3.1.jar
+2021-02-04 10:23:55,169 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-junit-jupiter/3.6.28/mockito-junit-jupiter-3.6.28.jar
+2021-02-04 10:23:55,520 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-junit-jupiter/3.6.28/mockito-junit-jupiter-3.6.28.jar
+2021-02-04 10:23:55,806 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.3/spring-core-5.3.3.jar
+2021-02-04 10:24:00,249 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/5.3.3/spring-core-5.3.3.jar
+2021-02-04 10:24:00,530 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.3/spring-jcl-5.3.3.jar
+2021-02-04 10:24:00,958 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jcl/5.3.3/spring-jcl-5.3.3.jar
+2021-02-04 10:24:01,245 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.3.3/spring-test-5.3.3.jar
+2021-02-04 10:24:03,109 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-test/5.3.3/spring-test-5.3.3.jar
+2021-02-04 10:24:08,727 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.2.0/maven-resources-plugin-3.2.0.pom
+2021-02-04 10:24:09,049 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/3.2.0/maven-resources-plugin-3.2.0.pom
+2021-02-04 10:24:09,354 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/34/maven-plugins-34.pom
+2021-02-04 10:24:09,691 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/34/maven-plugins-34.pom
+2021-02-04 10:24:13,507 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.1.0/maven-plugin-api-3.1.0.pom
+2021-02-04 10:24:13,843 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.1.0/maven-plugin-api-3.1.0.pom
+2021-02-04 10:24:14,143 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.1.0/maven-3.1.0.pom
+2021-02-04 10:24:14,453 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven/3.1.0/maven-3.1.0.pom
+2021-02-04 10:24:14,747 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.1.0/maven-model-3.1.0.pom
+2021-02-04 10:24:15,115 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.1.0/maven-model-3.1.0.pom
+2021-02-04 10:24:15,499 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.1.0/maven-artifact-3.1.0.pom
+2021-02-04 10:24:15,788 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.1.0/maven-artifact-3.1.0.pom
+2021-02-04 10:24:16,090 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.0.0.M2a/org.eclipse.sisu.plexus-0.0.0.M2a.pom
+2021-02-04 10:24:16,403 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.0.0.M2a/org.eclipse.sisu.plexus-0.0.0.M2a.pom
+2021-02-04 10:24:16,702 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-plexus/0.0.0.M2a/sisu-plexus-0.0.0.M2a.pom
+2021-02-04 10:24:17,002 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-plexus/0.0.0.M2a/sisu-plexus-0.0.0.M2a.pom
+2021-02-04 10:24:17,526 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/10.0.1/guava-10.0.1.pom
+2021-02-04 10:24:17,833 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/10.0.1/guava-10.0.1.pom
+2021-02-04 10:24:18,128 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/10.0.1/guava-parent-10.0.1.pom
+2021-02-04 10:24:18,422 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/10.0.1/guava-parent-10.0.1.pom
+2021-02-04 10:24:18,729 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+2021-02-04 10:24:19,037 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.pom
+2021-02-04 10:24:19,338 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/3.1.0/sisu-guice-3.1.0.pom
+2021-02-04 10:24:19,646 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/3.1.0/sisu-guice-3.1.0.pom
+2021-02-04 10:24:19,948 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-parent/3.1.0/guice-parent-3.1.0.pom
+2021-02-04 10:24:20,268 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/inject/guice-parent/3.1.0/guice-parent-3.1.0.pom
+2021-02-04 10:24:20,621 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.0.0.M2a/org.eclipse.sisu.inject-0.0.0.M2a.pom
+2021-02-04 10:24:20,935 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.0.0.M2a/org.eclipse.sisu.inject-0.0.0.M2a.pom
+2021-02-04 10:24:21,314 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-inject/0.0.0.M2a/sisu-inject-0.0.0.M2a.pom
+2021-02-04 10:24:21,615 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/sisu-inject/0.0.0.M2a/sisu-inject-0.0.0.M2a.pom
+2021-02-04 10:24:22,004 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4.pom
+2021-02-04 10:24:22,306 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4/plexus-classworlds-2.4.pom
+2021-02-04 10:24:22,721 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.1.0/maven-core-3.1.0.pom
+2021-02-04 10:24:23,033 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.1.0/maven-core-3.1.0.pom
+2021-02-04 10:24:23,374 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.1.0/maven-settings-3.1.0.pom
+2021-02-04 10:24:23,681 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.1.0/maven-settings-3.1.0.pom
+2021-02-04 10:24:23,993 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.1.0/maven-settings-builder-3.1.0.pom
+2021-02-04 10:24:24,300 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.1.0/maven-settings-builder-3.1.0.pom
+2021-02-04 10:24:24,612 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.16/plexus-interpolation-1.16.pom
+2021-02-04 10:24:24,924 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.16/plexus-interpolation-1.16.pom
+2021-02-04 10:24:25,268 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.1.0/maven-repository-metadata-3.1.0.pom
+2021-02-04 10:24:25,579 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.1.0/maven-repository-metadata-3.1.0.pom
+2021-02-04 10:24:25,882 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.1.0/maven-model-builder-3.1.0.pom
+2021-02-04 10:24:26,188 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.1.0/maven-model-builder-3.1.0.pom
+2021-02-04 10:24:26,503 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.1.0/maven-aether-provider-3.1.0.pom
+2021-02-04 10:24:26,826 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.1.0/maven-aether-provider-3.1.0.pom
+2021-02-04 10:24:27,134 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2.pom
+2021-02-04 10:24:27,442 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2.pom
+2021-02-04 10:24:27,858 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2.pom
+2021-02-04 10:24:28,161 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2.pom
+2021-02-04 10:24:28,494 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2.pom
+2021-02-04 10:24:28,798 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2.pom
+2021-02-04 10:24:29,095 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4.2/plexus-classworlds-2.4.2.pom
+2021-02-04 10:24:29,409 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4.2/plexus-classworlds-2.4.2.pom
+2021-02-04 10:24:29,752 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.26/plexus-interpolation-1.26.pom
+2021-02-04 10:24:30,054 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.26/plexus-interpolation-1.26.pom
+2021-02-04 10:24:30,348 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/3.2.0/maven-filtering-3.2.0.pom
+2021-02-04 10:24:30,651 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/3.2.0/maven-filtering-3.2.0.pom
+2021-02-04 10:24:30,946 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/34/maven-shared-components-34.pom
+2021-02-04 10:24:31,252 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/34/maven-shared-components-34.pom
+2021-02-04 10:24:31,561 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.3.3/maven-shared-utils-3.3.3.pom
+2021-02-04 10:24:31,869 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.3.3/maven-shared-utils-3.3.3.pom
+2021-02-04 10:24:32,516 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.1.0/maven-plugin-api-3.1.0.jar
+2021-02-04 10:24:33,033 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/3.1.0/maven-plugin-api-3.1.0.jar
+2021-02-04 10:24:33,316 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.1.0/maven-artifact-3.1.0.jar
+2021-02-04 10:24:33,679 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/3.1.0/maven-artifact-3.1.0.jar
+2021-02-04 10:24:33,948 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.1.0/maven-core-3.1.0.jar
+2021-02-04 10:24:35,050 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/3.1.0/maven-core-3.1.0.jar
+2021-02-04 10:24:35,336 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.1.0/maven-settings-3.1.0.jar
+2021-02-04 10:24:35,759 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/3.1.0/maven-settings-3.1.0.jar
+2021-02-04 10:24:36,023 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.1.0/maven-settings-builder-3.1.0.jar
+2021-02-04 10:24:36,836 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings-builder/3.1.0/maven-settings-builder-3.1.0.jar
+2021-02-04 10:24:37,106 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.1.0/maven-repository-metadata-3.1.0.jar
+2021-02-04 10:24:37,499 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/3.1.0/maven-repository-metadata-3.1.0.jar
+2021-02-04 10:24:38,068 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.1.0/maven-model-builder-3.1.0.jar
+2021-02-04 10:24:38,501 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model-builder/3.1.0/maven-model-builder-3.1.0.jar
+2021-02-04 10:24:38,770 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.1.0/maven-aether-provider-3.1.0.jar
+2021-02-04 10:24:39,092 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-aether-provider/3.1.0/maven-aether-provider-3.1.0.jar
+2021-02-04 10:24:39,363 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2.jar
+2021-02-04 10:24:39,770 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-spi/0.9.0.M2/aether-spi-0.9.0.M2.jar
+2021-02-04 10:24:40,036 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2.jar
+2021-02-04 10:24:40,638 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-impl/0.9.0.M2/aether-impl-0.9.0.M2.jar
+2021-02-04 10:24:40,904 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2.jar
+2021-02-04 10:24:41,283 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/aether/aether-api/0.9.0.M2/aether-api-0.9.0.M2.jar
+2021-02-04 10:24:41,548 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.jar
+2021-02-04 10:24:41,991 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.10/plexus-utils-3.0.10.jar
+2021-02-04 10:24:42,258 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4.2/plexus-classworlds-2.4.2.jar
+2021-02-04 10:24:42,765 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.4.2/plexus-classworlds-2.4.2.jar
+2021-02-04 10:24:43,036 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.1.0/maven-model-3.1.0.jar
+2021-02-04 10:24:43,441 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/3.1.0/maven-model-3.1.0.jar
+2021-02-04 10:24:43,712 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.26/plexus-interpolation-1.26.jar
+2021-02-04 10:24:44,071 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.26/plexus-interpolation-1.26.jar
+2021-02-04 10:24:44,341 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.0.0.M2a/org.eclipse.sisu.plexus-0.0.0.M2a.jar
+2021-02-04 10:24:44,785 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.plexus/0.0.0.M2a/org.eclipse.sisu.plexus-0.0.0.M2a.jar
+2021-02-04 10:24:45,054 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/10.0.1/guava-10.0.1.jar
+2021-02-04 10:24:46,485 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/10.0.1/guava-10.0.1.jar
+2021-02-04 10:24:46,754 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar
+2021-02-04 10:24:47,449 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar
+2021-02-04 10:24:47,717 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/3.1.0/sisu-guice-3.1.0-no_aop.jar
+2021-02-04 10:24:48,335 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/sisu/sisu-guice/3.1.0/sisu-guice-3.1.0-no_aop.jar
+2021-02-04 10:24:48,607 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.0.0.M2a/org.eclipse.sisu.inject-0.0.0.M2a.jar
+2021-02-04 10:24:49,056 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.0.0.M2a/org.eclipse.sisu.inject-0.0.0.M2a.jar
+2021-02-04 10:24:49,323 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/3.2.0/maven-filtering-3.2.0.jar
+2021-02-04 10:24:49,658 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-filtering/3.2.0/maven-filtering-3.2.0.jar
+2021-02-04 10:24:49,926 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.3.3/maven-shared-utils-3.3.3.jar
+2021-02-04 10:24:50,327 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.3.3/maven-shared-utils-3.3.3.jar
+2021-02-04 10:24:50,594 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar
+2021-02-04 10:24:51,292 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar
+2021-02-04 10:24:55,671 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myfirstapp/src/main/java
+2021-02-04 10:24:55,672 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /myfirstapp/src/main/resources
+2021-02-04 10:24:55,681 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /myfirstapp/src/main/resources
+2021-02-04 10:24:55,692 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /myfirstapp/src/test/java
+2021-02-04 10:24:59,368 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 220 sec
+2021-02-04 10:25:00,951 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:25:00,951 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 10:25:00,959 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-04 10:25:01,041 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-04 10:25:01,045 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:25:01,045 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 10:25:01,046 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\IT Files\Google Drive\muhd.mr404\OneDrive\Document\From TCLD\Spring\Boot\myfirstapp\myfirstapp\src\test\resources
+2021-02-04 10:31:34,012 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:31:34,012 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 10:31:34,017 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-04 10:31:34,037 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-04 10:31:34,041 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:31:34,041 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 10:31:34,041 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\IT Files\Google Drive\muhd.mr404\OneDrive\Document\From TCLD\Spring\Boot\myfirstapp\myfirstapp\src\test\resources
+2021-02-04 10:32:30,803 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:32:30,803 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 10:32:30,804 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-04 10:32:30,861 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-04 10:32:30,873 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:32:30,874 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 10:32:30,874 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\IT Files\Google Drive\muhd.mr404\OneDrive\Document\From TCLD\Spring\Boot\myfirstapp\myfirstapp\src\test\resources
+2021-02-04 10:32:39,885 [Worker-19] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.3.v20180115-1757.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
+2021-02-04 10:33:22,740 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:33:22,740 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 10:33:22,741 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-04 10:33:22,765 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-04 10:33:22,770 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:33:22,770 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 10:33:22,771 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\IT Files\Google Drive\muhd.mr404\OneDrive\Document\From TCLD\Spring\Boot\myfirstapp\myfirstapp\src\test\resources
+2021-02-04 10:35:19,805 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:35:19,805 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 10:35:19,805 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-04 10:35:19,832 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-04 10:35:19,836 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:35:19,837 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 10:35:19,837 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\IT Files\Google Drive\muhd.mr404\OneDrive\Document\From TCLD\Spring\Boot\myfirstapp\myfirstapp\src\test\resources
+2021-02-04 10:36:37,867 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:36:37,867 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 10:36:37,868 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-04 10:36:37,880 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-04 10:36:37,884 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 10:36:37,885 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 10:36:37,885 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\IT Files\Google Drive\muhd.mr404\OneDrive\Document\From TCLD\Spring\Boot\myfirstapp\myfirstapp\src\test\resources
+2021-02-04 12:54:34,086 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 12:54:34,086 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 12:54:34,086 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-04 12:54:34,112 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-04 12:54:34,115 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-04 12:54:34,116 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-04 12:54:34,116 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\IT Files\Google Drive\muhd.mr404\OneDrive\Document\From TCLD\Spring\Boot\myfirstapp\myfirstapp\src\test\resources
+2021-02-18 11:14:44,494 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-02-18 11:18:35,839 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2021-02-18 11:19:35,985 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\IT Files\Google Drive\muhd.mr404\OneDrive\Document\From TCLD\Spring\Boot\myfirstapp\myfirstapp
+2021-02-18 11:19:36,000 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -Dmaven.test.skip=true -DskipTests clean install
+2021-02-18 11:20:57,747 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2021-02-18 11:20:57,883 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\IT Files\Google Drive\muhd.mr404\OneDrive\Document\From TCLD\Spring\Boot\myfirstapp\myfirstapp
+2021-02-18 11:20:57,883 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -Dmaven.test.skip=true -DskipTests clean install
+2021-02-18 11:26:57,251 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-18 11:26:57,251 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-18 11:26:57,259 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-18 11:26:57,293 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 11:26:57,304 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-18 11:26:57,304 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-18 11:26:57,305 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\IT Files\Google Drive\muhd.mr404\OneDrive\Document\From TCLD\Spring\Boot\myfirstapp\myfirstapp\src\test\resources
+2021-02-18 11:27:08,464 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-18 11:27:08,464 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-18 11:27:08,468 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-18 11:27:08,473 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-02-18 11:27:08,476 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-18 11:27:08,476 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-02-18 11:27:08,476 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\IT Files\Google Drive\muhd.mr404\OneDrive\Document\From TCLD\Spring\Boot\myfirstapp\myfirstapp\src\test\resources
+2021-02-18 11:27:47,200 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2021-02-18 11:27:47,338 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\IT Files\Google Drive\muhd.mr404\OneDrive\Document\From TCLD\Spring\Boot\myfirstapp\myfirstapp
+2021-02-18 11:27:47,338 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -Dmaven.test.skip=true -DskipTests clean install
