@@ -1,0 +1,27 @@
+$.ajax({ 
+                    url: "/addDepartment", 
+                    method: 'POST', 
+                    dataType: 'json', 
+                    data: "{\"message\":\"abc\",\"success\":true}",
+                    contentType: 'application/json',
+                    mimeType: 'application/json',
+                    success: function(data) { 
+                        alert(data.success + " " + data.message);
+                        //commit(true);
+                    },
+                    error:function(data,status,er) { 
+                        alert("error: "+data+" status: "+status+" er:"+er);
+                    }
+                });
+
+
+
+@RequestMapping(value="/addDepartment", method=RequestMethod.POST)
+  public AjaxResponse addDepartment(@RequestBody final AjaxResponse  departmentDTO)
+  {
+    System.out.println("addDepartment: >>>>>>> "+departmentDTO);
+    AjaxResponse response=new AjaxResponse();
+    response.setSuccess(departmentDTO.isSuccess());
+    response.setMessage(departmentDTO.getMessage());
+    return response;
+  }
